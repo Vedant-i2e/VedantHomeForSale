@@ -18,3 +18,14 @@
 - Run the application 
 
   `ng serve`
+
+## Application Screenshot
+
+Below is a screenshot of the home sales webpage:
+
+![Home Sales Web Page](src/assets/Screenshot 2024-10-23 143914.png)
+
+![Detils page](src/assets/Screenshot 2024-10-23 143935.png)
+
+
+This screenshot shows the main interface where users can browse available homes.
