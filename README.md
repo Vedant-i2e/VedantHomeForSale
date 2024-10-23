@@ -31,7 +31,7 @@ Below is a screenshot of the main interface where users can browse available hom
 
 Here’s a screenshot of the details page that provides more information about a specific home:
 
-![Details Page]( src/assets/Screenshot 2024-10-23 143935.png )
+![Details Page](src/assets/Screenshot 2024-10-23 143935.png)
 
 These images illustrate the key components of the home sales web application.
 
