@@ -19,13 +19,19 @@
 
   `ng serve`
 
-## Application Screenshot
+## Application Screenshots
 
-Below is a screenshot of the home sales webpage:
+### Home Sales Web Page
 
-![Home Sales Web Page](src/assets/Screenshot 2024-10-23 143914.png)
+Below is a screenshot of the main interface where users can browse available homes:
 
-![Detils page](src/assets/Screenshot 2024-10-23 143935.png)
+![Home Sales Web Page](src/assets/screenshot-2024-10-23-143914.png)
 
+### Details Page
 
-This screenshot shows the main interface where users can browse available homes.
+Here’s a screenshot of the details page that provides more information about a specific home:
+
+![Details Page](src/assets/screenshot-2024-10-23-143935.png)
+
+These images illustrate the key components of the home sales web application.
+
