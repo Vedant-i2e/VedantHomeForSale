@@ -18,3 +18,20 @@
 - Run the application 
 
   `ng serve`
+
+# Application Screenshots
+
+# Home Sales Web Page
+
+Below is a screenshot of the main interface where users can browse available homes:
+
+![Home Sales Web Page](src/assets/SS02.png)
+
+# Details Page
+
+Here’s a screenshot of the details page that provides more information about a specific home:
+
+![Details Page](src/assets/SS01.png)
+
+These images illustrate the key components of the home sales web application.
+
